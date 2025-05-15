@@ -1,7 +1,7 @@
 I don't do much <br>
 i made sigma games  <br>
 i like to code stuff <br>
-<img href='https://lh3.googleusercontent.com/a-/ALV-UjXI3jMftYRWzVo_ldr5Y2eSJ70rl61L0iVtyVVqSZM2c31bmC4=s88-w88-h88-c-k-no'></img>
+<img src='https://lh3.googleusercontent.com/a-/ALV-UjXI3jMftYRWzVo_ldr5Y2eSJ70rl61L0iVtyVVqSZM2c31bmC4=s88-w88-h88-c-k-no'></img>
 test
 <!--
 **Kye1331/Kye1331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
