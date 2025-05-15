@@ -1,6 +1,6 @@
-I don't do much \n
-i made sigma games \n
-i like to code stuff \n
+I don't do much <br>
+i made sigma games  <br>
+i like to code stuff <br>
 
 <!--
 **Kye1331/Kye1331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
