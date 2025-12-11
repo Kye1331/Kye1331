@@ -1,8 +1,23 @@
 I don't do much <br>
 i made sigma games  <br>
 i like to code stuff <br>
-<img src='https://lh3.googleusercontent.com/a-/ALV-UjXI3jMftYRWzVo_ldr5Y2eSJ70rl61L0iVtyVVqSZM2c31bmC4=s88-w88-h88-c-k-no'></img>
 test
+<style>
+  iframe {
+  resize: both; /* Allows dragging both horizontally and vertically */
+  overflow: auto; /* Shows scrollbars if content overflows */
+  width: 400px; /* Initial width */
+  height: 300px; /* Initial height */
+  border: 1px solid #ccc;
+}
+/* For mobile, you might want to hide the resize handle */
+@media (max-width: 600px) {
+  iframe {
+    resize: none;
+  }
+}
+</style>
+<iframe href="myinstants.com" width="500" height="500">
 <!--
 **Kye1331/Kye1331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
